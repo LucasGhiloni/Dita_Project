@@ -1,28 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gbx_4l3_zcb">
-    <title>How to Log into WolfWare</title>
-    <shortdesc>Before we get started, you will want to make sure that you are logged into WolfWare, where you will be accessing the Moodle pages for your classes. </shortdesc>
+    <title>How to Access NCSU Moodle</title>
+    <shortdesc>You must learn to log into WolfWare before you can acess Moodle.</shortdesc>
    
     <taskbody>
         <prereq>A valid NCSU Unity username and Password.</prereq>
+        <context>
+            <p>Before we get started, you will want to make sure that you are logged into WolfWare, where you will be accessing the Moodle pages for your classes. </p>
+        </context>
   
         <steps>
             <step>
                 <cmd>Accessing WolfWare</cmd>
                 <substeps>
-                    <substep>Navigate to the NCSU WolfWare Homepage</substep>
-                    <substep>Click on "My WolfWare"</substep>
-                    <substep>Login to your Unity account</substep>
+                    <substep>
+                        <cmd>Navigate to the NCSU WolfWare Homepage</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click on "My WolfWare"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Login to your Unity account</cmd>
+                    </substep>
                 </substeps>       
             </step>
+            
             <step>
                 <cmd>Finding Your Class</cmd>
                 <substeps>
-                    <substep>Click on the "Current" tab</substep>
-                    <substep>Find your class and click the Moodle icon</substep>
+                    <substep>
+                        <cmd>Click on the "Current" tab</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Find your class and click the Moodle icon</cmd>
+                    </substep>
                 </substeps>
             </step>
+            
         </steps>
+        
+        <result> Now you have logged into Moodle for the class in which you want to submit an assignment or make a forum post.</result>
     </taskbody>
 </task>
