@@ -15,7 +15,7 @@
                 <cmd>Access WolfWare</cmd>
                 <substeps>
                     <substep>
-                        <cmd>Navigate to the NCSU WolfWare Homepage</cmd>
+                        <cmd>Navigate to the <xref href="wolfware.ncsu.edu" scope="external" format="html"> NCSU WolfWare Homepage </xref></cmd>
                     </substep>
                     <substep>
                         <cmd>Click on "My WolfWare"</cmd>
