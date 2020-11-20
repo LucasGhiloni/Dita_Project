@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gbx_4l3_zcb">
-    <title>Creating a Deliverable Assignment</title>
-    <shortdesc>You can create assignments on Moodle that require students to submit a
-        deliverable.</shortdesc>
+    <title>How to Log into WolfWare</title>
+    <shortdesc>Before we get started, you will want to make sure that you are logged into WolfWare, where you will be accessing the Moodle pages for your classes. </shortdesc>
     <prolog><metadata><prodinfo>
         <prodname>Moodle 3.2</prodname>
     </prodinfo></metadata></prolog>
