@@ -12,7 +12,7 @@
   
         <steps>
             <step>
-                <cmd>Accessing WolfWare</cmd>
+                <cmd>Access WolfWare</cmd>
                 <substeps>
                     <substep>
                         <cmd>Navigate to the NCSU WolfWare Homepage</cmd>
@@ -27,7 +27,7 @@
             </step>
             
             <step>
-                <cmd>Finding Your Class</cmd>
+                <cmd>Find Your Class</cmd>
                 <substeps>
                     <substep>
                         <cmd>Click on the "Current" tab</cmd>
