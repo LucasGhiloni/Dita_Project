@@ -40,6 +40,6 @@
             
         </steps>
         
-        <result> Now you have logged into Moodle for the class in which you want to submit an assignment or make a forum post.</result>
+        <result> You have now logged into Moodle for the class in which you want to submit an assignment or make a forum post.</result>
     </taskbody>
 </task>
