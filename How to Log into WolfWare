@@ -35,6 +35,7 @@
                     </substep>
                     <substep>
                         <cmd>Find your class and click the Moodle icon</cmd>
+                        <info><image href="Icon.png"></image></info>
                     </substep>
                 </substeps>
             </step>
