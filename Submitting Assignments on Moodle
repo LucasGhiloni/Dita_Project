@@ -3,22 +3,25 @@
 <task id="task_gbx_4l3_zcb">
     <title>How to Log into WolfWare</title>
     <shortdesc>Before we get started, you will want to make sure that you are logged into WolfWare, where you will be accessing the Moodle pages for your classes. </shortdesc>
-    <prolog><metadata><prodinfo>
-        <prodname>Moodle 3.2</prodname>
-    </prodinfo></metadata></prolog>
+   
     <taskbody>
-        <context>Students can click on the assignment item on the home page and then submit their
-            assignments. You will then be able to grade these assignments within Moodle.<p>To create
-                a deliverable-based assignment:</p></context>
+        <prereq>A valid NCSU Unity username and Password.</prereq>
+  
         <steps>
             <step>
-                <cmd>Navigate to the NCSU WolfWare Homepage</cmd>
+                <cmd>Accessing WolfWare</cmd>
+                <substeps>
+                    <substep>Navigate to the NCSU WolfWare Homepage</substep>
+                    <substep>Click on "My WolfWare"</substep>
+                    <substep>Login to your Unity account</substep>
+                </substeps>       
             </step>
             <step>
-                <cmd>Click "My WolfWare"</cmd>
-            </step>
-            <step>
-                <cmd>Login to your Unity Account</cmd>
+                <cmd>Finding Your Class</cmd>
+                <substeps>
+                    <substep>Click on the "Current" tab</substep>
+                    <substep>Find your class and click the Moodle icon</substep>
+                </substeps>
             </step>
         </steps>
     </taskbody>
