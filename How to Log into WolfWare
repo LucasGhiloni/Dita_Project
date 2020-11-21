@@ -19,7 +19,9 @@
                     </substep>
                     <substep>
                         <cmd>Click on "My WolfWare"</cmd>
-                        <info><image href="Wolfware.png"></image></info>
+                        <info>
+                            <image href="Wolfware.png"/>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Login to your Unity account</cmd>
@@ -35,7 +37,9 @@
                     </substep>
                     <substep>
                         <cmd>Find your class and click the Moodle icon</cmd>
-                        <info><image href="Icon.png"></image></info>
+                        <info>
+                            <image href="Icon.png"/>
+                        </info>
                     </substep>
                 </substeps>
             </step>
