@@ -5,7 +5,7 @@
     <shortdesc>You must first learn to log into WolfWare before you can access Moodle.</shortdesc>
    
     <taskbody>
-        <prereq>A valid NCSU Unity username and Password.</prereq>
+        <prereq>A valid NCSU Unity username and password.</prereq>
         <context>
             <p>Before we get started, you will want to make sure that you are logged into WolfWare, where you will be accessing the Moodle pages for your classes. </p>
         </context>
