@@ -52,5 +52,36 @@
         </step>
         
         <step>
-            <cmd>Edit or Remove Submissions</cmd>
+            <cmd>Edit Submission</cmd>
+            <info>As long as it has been within five minutes of turning in an assignment, you can edit the assignment.</info>
+                <substeps>
+                    <substep>
+                        <cmd>Click the "Edit Submissions" button at the bottom of the submissions page</cmd?
+                    </substep>
+                    <substep>
+                        <cmd>Make any necessary edits to your submission</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Hit the "Save Changes" button</cmd>
+                    </substep>
+                </substeps>
+            </step>        
                     
+            <step>
+                <cmd>Remove Submission</cmd>
+                <info>As long as it has been within five minutes of turning in an assignment, you can remove the submission.</info>
+                    <substeps>
+                        <substep>
+                            <cmd>Click the "Remove Submission" button at the bottom of the submissions page</cmd>
+                        </substep>
+                        <substep>
+                            <cmd>Click "Continue" when a message asks if you are sure you want to remove the submission</cmd>
+                        </substep>
+                </substeps>
+            </step>
+            
+        </steps>
+            
+        <result>You now know how to submit, edit, and remove assignments turned in on Moodle</result>
+    </taskbody>
+</task>
