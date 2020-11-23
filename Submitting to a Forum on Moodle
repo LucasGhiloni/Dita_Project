@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gbx_4l3_zcb">
+    <title>Submitting to a Forum on Moodle</title>
+    <shortdesc>Once you have accessed Moodle for a class, you can now submit to forums for that class.</shortdesc>
+   
+    <taskbody>
+    <prereq> Registration in an NCSU online course.</prereq>
+        
+        <steps>
+            <step>
+                <cmd>Access the Forum</cmd>
+                <substeps>
+                    <substep>
+                        <cmd> Scroll until you find the forum, denoted by this symbol</cmd>
+                        <info>
+                            <image href="forum.png"/>
+                        </info>
+                    </substep>
+                    <substep>
+                        </cmd>Click the link to access the forum page</cmd>
+                    </substep>
+                </substeps> 
+            </step>
+   
+            <step>
+                <cmd>Add a Discussion Topic</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click the "Add a new discussion topic" button</cmd>
+                        <info>
+                            <image href="add_a_new.png"/>
+                        </info>
+                    </substep>
+                </substeps>
+                <stepresult>A textbox should now appear where you can write your forum post.</stepresult>
+                <info>
+                    <image href="forum_box.png"/>
+                </info>
+            </step>
+    
+            <step>
+                <cmd>Write and Submit Your Post</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Write the subject of your post in the textbox next to "Subject"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Write your forum post in the textbox next to "Messages"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click the "Post ot Forum" button to submit your post</cmd>
+                    </substep>
+                </substeps>
+            </step>
+    
+            <step>
+                <cmd>Edit Your Post</cmd>
+                <info>
+                    <note type="note">If you notice an error in your post, you can edit it, as long as you do so within five minutes of submission.</note>
+                </info>           
+                <substeps>
+                    <substep>
+                        <cmd>Click on your post on the Forum Page</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click the "Ddit" button on the bottom of your post</cmd>
+                        <info>
+                            <image href="edit_bar.png"/>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Edit your post</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click the "Save Changes" button to resubmit your edited post</cmd>
+                    </substep>
+                </substeps>
+            </step>
+    
+        </steps>
+
+        <result>You now know how yo submit and edit forum posts on Moodle.</result>
+    </taskbody>
+</task>
