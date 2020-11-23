@@ -7,53 +7,53 @@
     <taskbody>
     <prereq> Registration in an NCSU online course.</prereq>
     
-    <steps>
-        <step> 
-            <cmd>Access the assignment you wish to turn in</cmd>
-            <substeps>
-                <substep>
-                    <cmd> Scroll down the Moodle page until you find the assignment you wish to turn in, denoted by this image</cmd>
-                    <info>
-                        <image href="Symbol.png"/>
-                    </info>
-                </substep>
-                <substep>
-                    <cmd>Click the link to access the submissions page</cmd>
-                    <info>
-                        <image href="Submission.png"/>
-                    </info>
-                </substep>
-            </substeps>
-        </step>
+        <steps>
+            <step> 
+                <cmd>Access the assignment you wish to turn in</cmd>
+                <substeps>
+                    <substep>
+                        <cmd> Scroll down the Moodle page until you find the assignment you wish to turn in, denoted by this image</cmd>
+                        <info>
+                            <image href="Symbol.png"/>
+                        </info>
+                    </substep>
+                  <substep>
+                       <cmd>Click the link to access the submissions page</cmd>
+                       <info>
+                            <image href="Submission.png"/>
+                     </info>
+                 </substep>
+                </substeps>
+            </step>
         
-        <step>
-            <cmd>Submit the Assignment</cmd>
-            <substeps>
-                <substep>
-                    <cmd>Click the "Add Submissions" button on the submissions page</cmd>
-                    <info>
-                        <image href="add.png"/>
-                    </info>
-                </substep>
-                <substep>
-                    <cmd>Upload your document by either:</cmd>
-                    <choices>
-                        <choice>Drag and drop your document to the file submissions box</choice>
-                        <choice>Click the "add" button and upload the file manually<choice>
-                    </choices>
-                    <info>
-                        <image href="submit.png"/>
-                    </info>
-                </substep>
-                <substep>
-                    <cmd>Click the "Save Changes> button to submit</cmd>
-                </substep>
-            </substeps>
-        </step>
+            <step>
+                <cmd>Submit the Assignment</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click the "Add Submissions" button on the submissions page</cmd>
+                        <info>
+                            <image href="add.png"/>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Upload your document by either:</cmd>
+                        <choices>
+                            <choice>Drag and drop your document to the file submissions box</choice>
+                            <choice>Click the "add" button and upload the file manually<choice>
+                        </choices>
+                        <info>
+                            <image href="submit.png"/>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Click the "Save Changes> button to submit</cmd>
+                    </substep>
+                </substeps>
+            </step>
         
-        <step>
-            <cmd>Edit Submission</cmd>
-            <info>As long as it has been within five minutes of turning in an assignment, you can edit the assignment.</info>
+            <step>
+                <cmd>Edit Submission</cmd>
+                <info>As long as it has been within five minutes of turning in an assignment, you can edit the assignment.</info>
                 <substeps>
                     <substep>
                         <cmd>Click the "Edit Submissions" button at the bottom of the submissions page</cmd?
